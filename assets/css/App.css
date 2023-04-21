@@ -135,13 +135,8 @@ a.active {
   background-color: skyblue;
 }
 
-#boss-map-container {
-  max-height: 800px;
-}
-
 #main-area {
   max-width: 800px;
-  max-height: 800px;
   margin-bottom: 100px;
 }
 
